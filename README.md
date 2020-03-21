@@ -3,7 +3,7 @@ V2X Communications for AV
 
 Usecases
 
-<img="https://github.com/schoenemeyer/V2X/blob/master/v2x-usecase.JPG" 
+<img src="https://github.com/schoenemeyer/V2X/blob/master/v2x-usecase.JPG" width="580"> <img>
 
 Aachener Kolloquium Fahrzeug- und Motorentechnik 2008    
 https://www.tu-ilmenau.de/fileadmin/media/telematik/schmidt/080718_V2X-Kommunikation.pdf
