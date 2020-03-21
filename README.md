@@ -1,29 +1,39 @@
 # V2X
-V2X Communications for AV
+V2X Communications for AV   
 
-Usecases
+5G Automotive Assoiation
+https://5gaa.org/
+
+
+Usecases     
 
 <img src="https://github.com/schoenemeyer/V2X/blob/master/v2x-usecase.JPG" width="580"> <img>
 
 Aachener Kolloquium Fahrzeug- und Motorentechnik 2008    
 https://www.tu-ilmenau.de/fileadmin/media/telematik/schmidt/080718_V2X-Kommunikation.pdf
 
-DLR
+DLR      
 https://www.sti-innsbruck.at/sites/default/files/courses/fileadmin/documents/vn-ws0809/11-VN-WAVE.pdf
+https://www.researchgate.net/publication/224342882_V2V_Communications_in_Automotive_Multi-Sensor_Multi-Target_Tracking
 
-WIKI
+
+WIKI     
 https://en.wikipedia.org/wiki/Vehicle-to-everything
 
 The Mobile Broadband Standard    
 https://www.3gpp.org/news-events/3gpp-news/1798-v2x_r14ietf%20ipwave
 
-LTE V2X Communication – Scenario and OAI Roadmap
+LTE V2X Communication – Scenario and OAI Roadmap      
 https://www.openairinterface.org/docs/workshop/4_OAI_Workshop_20171107/Talks/HAERRI_V2X_OrangeLabs_OAI_Workshop_release.pdf
 
-Vehicle-to-Vehicle Communications: Readiness of V2V Technology for Application     
+Vehicle-to-Vehicle Communications: Readiness of V2V Technology for Application       
 http://www.nhtsa.gov/staticfiles/rulemaking/pdf/V2V/Readiness-of-V2V-Technology-for-Application-812014.pdf
 
-V2V communications use on-board dedicated short-range radio communication devices
+Multi-Sensor Data Fusion for Checking Plausibility of V2V Communications by Vision-based Multiple-Object Tracking    
+http://www.autonet2030.eu/wp-content/uploads/2014/12/VNC2014_C2XVision.pdf
+
+
+V2V communications use on-board dedicated short-range radio communication devices    
 to transmit messages about a vehicle’s speed, heading, brake status, and other information to
 other vehicles and receive the same information from the messages, with range and “line-ofsight” capabilities that exceed current and near-term “vehicle-resident” systems -- in some cases,
 nearly twice the range. This longer detection distance and ability to “see” around corners or
