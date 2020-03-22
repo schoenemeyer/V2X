@@ -1,8 +1,18 @@
 # V2X
-V2X Communications for AV   
+V2X Communications for AV  
+
+## Standards for Europe
+ETSI and CEN
+https://www.etsi.org/technologies/automotive-intelligent-transport
+
+## Implementation at dSpace
+https://www.dspace.com/de/gmb/home/products/sw/impsw/v2xsolution.cfm#144_28494
 
 5G Automotive Assoiation
 https://5gaa.org/
+
+## Market Research 
+https://www.bloomberg.com/press-releases/2019-09-23/vehicle-to-everything-v2x-market-communications-ecosystem-2030-account-for-a-market-worth-1-2-billion-by-2022
 
 
 Usecases     
