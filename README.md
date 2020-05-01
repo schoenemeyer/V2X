@@ -1,6 +1,11 @@
 # V2X
 V2X Communications for AV  
 
+## Most recent Overview
+Securing Vehicle-to-Everything (V2X) Communication Platforms
+https://arxiv.org/pdf/2003.07191.pdf
+
+
 ## Standards for Europe
 ETSI and CEN
 https://www.etsi.org/technologies/automotive-intelligent-transport
